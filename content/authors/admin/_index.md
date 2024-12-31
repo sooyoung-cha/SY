@@ -33,12 +33,8 @@ profiles:
   - icon: at-symbol
     url: mailto:ellen2g@snu.ac.kr
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/sooyoung-cha
   - icon: brands/linkedin
     url: https://linkedin.com/in/sooyoung-cha-b1065a267
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-7211-4603
   - icon: brands/x
     url: https://x.com/ChaSooyoung37?t=nsSniUEp-UcKh4CGLJbp-A&s=32
 
@@ -64,23 +60,23 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, C++, R, Matlab ..
         description: ''
         percent: 100
         icon: devicon/python
-      - name: C++
-        description: ''
-        percent: 90
-        icon: devicon/cplusplus
-      - name: Matlab
-        description: ''
-        percent: 80
-        icon: devicon/matlab
+      # - name: C++
+      #   description: ''
+      #   percent: 90
+      #   icon: devicon/cplusplus
+      # - name: Matlab
+      #   description: ''
+      #   percent: 80
+      #   icon: devicon/matlab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Reading
+      - name: Books
         description: ''
         percent: 90
         icon: custom/simple-book
@@ -88,16 +84,16 @@ skills:
         description: ''
         percent: 90
         icon: custom/ballet-shoes
-      - name: Walk
-        description: ''
-        percent: 100
-        icon: custom/person-simple-walk
+      # - name: Walk
+      #   description: ''
+      #   percent: 100
+      #   icon: custom/person-simple-walk
 
 languages:
   - name: Korean
     percent: 100
   - name: English
-    percent: 90
+    percent: 85
   - name: French
     percent: 75
 

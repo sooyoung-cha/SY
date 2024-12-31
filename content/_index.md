@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Haha 뭐쓰지
+        뭐쓰지 헤헤
     design:
       columns: '1'
   # - block: collection
