@@ -1,15 +1,23 @@
 ---
-title: "An example journal article"
+title: "Structure-guided isoform identification for the human transcriptome"
 authors:
+- Markus J Sommer* 
 - admin
-- Robert Ford
+- ...
+- Martin Steinegger
+- Steven L Salzberg
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Author"
+- "Author"
+- "Corresponding author"
+- "Corresponding author"
+
+date: "2022-12-15T00:00:00Z"
+doi: "https://doi.org/10.7554/eLife.82556"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,39 +25,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Elife, 11*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recently developed methods to predict three-dimensional protein structure with high accuracy have opened new avenues for genome and proteome research. We explore a new hypothesis in genome annotation, namely whether computationally predicted structures can help to identify which of multiple possible gene isoforms represents a functional protein product. Guided by protein structure predictions, we evaluated over 230,000 isoforms of human protein-coding genes assembled from over 10,000 RNA sequencing experiments across many human tissues. From this set of assembled transcripts, we identified hundreds of isoforms with more confidently predicted structure and potentially superior function in comparison to canonical isoforms in the latest human gene database. We illustrate our new method with examples where structure provides a guide to function in combination with expression and evolutionary evidence. Additionally, we provide the complete set of structures as a resource to better understand the function of human genes and their isoforms. These results demonstrate the promise of protein structure prediction as a genome annotation tool, allowing us to refine even the most highly curated catalog of human proteins. More generally we demonstrate a practical, structure-guided approach that can be used to enhance the annotation of any genome.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
-- Source Themes
+- ''
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://elifesciences.org/articles/82556
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -70,7 +68,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
 {{% callout note %}}
