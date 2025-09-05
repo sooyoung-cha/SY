@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/ChaSooyoung37?t=nsSniUEp-UcKh4CGLJbp-A&s=32
-  # - icon: brands/bluesky
-  #   url: https://bsky.app/profile/sooyoung-cha.bsky.social
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/sooyoung-cha.bsky.social
 
 interests:
   - Bioinformatics software development
