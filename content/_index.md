@@ -64,6 +64,12 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+      
     design:
       view: citation
   # - block: collection
