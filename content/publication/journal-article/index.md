@@ -79,7 +79,7 @@ authors:
 - Christian Dallago
 - Milot Mirdita
 - Bertil Schmidt
-- Martin Steinegger3
+- Martin Steinegger
 author_notes:
 - "Equal contribution"
 - "Author"
