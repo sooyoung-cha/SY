@@ -69,13 +69,14 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+---
 
-
+---
 title: "GPU-accelerated homology search with MMseqs2. bioRxiv, 2024"
 authors:
 - Felix Kallenborn* 
-- admin
 - ...
+- admin
 - Christian Dallago
 - Milot Mirdita
 - Bertil Schmidt
